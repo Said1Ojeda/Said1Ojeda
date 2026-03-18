@@ -1,4 +1,4 @@
-# ¡Hola! Soy Said
+# ¡Hola! Soy Said 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Said%20Ojeda%20Fabian&fontSize=70&animation=fadeIn&fontAlignY=38" />
@@ -27,7 +27,7 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 
 ### ⚙️ Ingeniería & Automatización
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0amZndXN6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmN0PWc/3o7TKMGpxP5O0tT06A/giphy.gif" width="600" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlna25rYjV6ZHhyYWd6bjZ6eG9tOXA3emY4a3p6OWp6eG9tOXA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvIMGMoREMQZza/giphy.gif" width="600" />
 </p>
 
 <p align="center">
