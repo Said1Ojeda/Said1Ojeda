@@ -1,4 +1,4 @@
-# ¡Hola! Soy Said Ojeda 👋 
+# ¡Hola! Soy Said 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Said%20Ojeda%20Fabian&fontSize=70&animation=fadeIn&fontAlignY=38" />
@@ -27,15 +27,20 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said1Ojeda&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said1Ojeda&layout=compact&theme=tokyonight&langs_count=6&locale=es" />
 </div>
 
 ---
 
 ### 🏆 Actividad y Racha
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said1Ojeda&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said1Ojeda&theme=tokyonight&locale=es" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzZSZm8mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1tvIMGMoREMQZza/giphy.gif" width="400" />
 </p>
 
 <p align="center">
