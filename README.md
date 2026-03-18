@@ -20,7 +20,7 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+
 </div>
 
 ---
