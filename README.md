@@ -1,4 +1,4 @@
-# ¡Hola! Soy Said 
+# ¡Hola! Soy Said
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Said%20Ojeda%20Fabian&fontSize=70&animation=fadeIn&fontAlignY=38" />
@@ -25,6 +25,17 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 
 ---
 
+### ⚙️ Ingeniería & Automatización
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0amZndXN6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmN0PWc/3o7TKMGpxP5O0tT06A/giphy.gif" width="600" />
+</p>
+
+<p align="center">
+  <i>"Transformando datos en decisiones mediante flujos inteligentes y arquitectura robusta."</i>
+</p>
+
+---
+
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" />
@@ -37,10 +48,6 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 ### 🏆 Actividad y Racha
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said1Ojeda&theme=tokyonight&locale=es" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3Znd4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzZSZm8mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1tvIMGMoREMQZza/giphy.gif" width="400" />
 </p>
 
 <p align="center">
