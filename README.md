@@ -20,14 +20,14 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-
+ 
 </div>
 
 ---
 
 ### ⚙️ Ingeniería & Automatización
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlna25rYjV6ZHhyYWd6bjZ6eG9tOXA3emY4a3p6OWp6eG9tOXA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvIMGMoREMQZza/giphy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Apps.gif" width="400" />
 </p>
 
 <p align="center">
@@ -39,7 +39,6 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said1Ojeda&layout=compact&theme=tokyonight&langs_count=6&locale=es" />
 </div>
 
@@ -51,7 +50,7 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Said1Ojeda&theme=tokyonight" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Said1Ojeda&theme=tokyonight&alt=" /></a>
 </p>
 
 ---
