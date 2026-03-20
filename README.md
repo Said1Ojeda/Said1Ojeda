@@ -7,7 +7,7 @@
 ### 🚀 Sobre mí
 Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y la arquitectura de datos. Mi enfoque principal es la creación de soluciones que optimicen flujos de trabajo mediante la programación y herramientas de automatización empresarial.
 
-- 🔭 **Proyectos Actuales:** Desarrollo de sistemas de gestión escolar y automatización de procesos de reclutamiento.
+- 🔭 **Proyectos Actuales:** Desarrollo de sistemas de gestión escolar.
 - ⚙️ **Especialidad:** Integración de bases de datos con flujos inteligentes (Power Automate + SQL).
 - 💡 **Intereses:** Optimización de sistemas, hardware de alto rendimiento y desarrollo de scripts personalizados.
 
@@ -53,12 +53,14 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Said1Ojeda&theme=tokyonight&alt=" /></a>
 </p>
 
+
 ---
 
 ### 📫 Conectemos
 <p align="left">
 <a href="https://www.linkedin.com/in/said-ojeda-fabian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Said1Ojeda&color=blue&style=flat-square&label=Vistas+al+perfil" alt="Views" />
