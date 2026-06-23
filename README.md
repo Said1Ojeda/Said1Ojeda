@@ -35,6 +35,10 @@ Soy un **Estudiante de Ingeniería de Sistemas** apasionado por la eficiencia y 
 </p>
 
 ---
+---
+---
+---
+---
 
 ### 📊 Mis Estadísticas de GitHub
 <div align="center">
