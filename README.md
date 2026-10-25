@@ -80,8 +80,8 @@ Y cosas por gusto: juegos como la [Culebrita](https://github.com/Said1Ojeda/Jueg
 ### Actividad
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=es" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=Said1Ojeda&theme=tokyonight&hide_border=true&locale=es" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Said1Ojeda&show_icons=true&theme=tokyonight&hide_border=true&locale=es&include_all_commits=true&hide=contribs,issues&show=prs_merged&custom_title=Said%20en%20GitHub" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Said1Ojeda&theme=tokyonight&hide_border=true&locale=es" />
 </div>
 
 ---
