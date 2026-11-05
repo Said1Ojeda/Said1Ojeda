@@ -72,7 +72,7 @@ Y cosas por gusto: juegos como la [Culebrita](https://github.com/Said1Ojeda/Jueg
 ### Ahora mismo
 
 - Sacando adelante el 6to semestre.
-- Mejorando el sistema de correspondencia y los reportes del trabajo.
+- Modernizando mi sistema de correspondencia y los reportes del trabajo.
 - Publicando aquí lo que voy aprendiendo, por si a alguien más le sirve.
 
 ---
