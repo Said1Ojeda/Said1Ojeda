@@ -4,7 +4,7 @@
 
 ## Hola, soy Said
 
-Estudio **Ingeniería en Sistemas** (voy en 6to semestre) y al mismo tiempo trabajo como desarrollador. De día hago sistemas para que una institución funcione mejor, y de noche saco tareas, proyectos y cualquier idea que se me meta en la cabeza.
+Estudio **Ingeniería en Sistemas** (voy en 7mo semestre) y al mismo tiempo trabajo como desarrollador. De día hago sistemas para que una institución funcione mejor, y de noche saco tareas, proyectos y cualquier idea que se me meta en la cabeza.
 
 Lo que más me gusta es agarrar un proceso que la gente hace a mano, en Excel o en papel, y convertirlo en algo que se haga solo.
 
@@ -33,6 +33,9 @@ Una Power App que genera los QR y otra app que los lee para registrar y validar 
 **ConvertDocs**
 Convierte PDFs, incluidos escaneados, en un servidor sin internet y donde no se puede instalar nada. La solución fue correr el OCR en el navegador.
 
+**[SQL a la Bala](https://said1ojeda.github.io/SQL-a-la-Bala/)**
+Una app para aprender SQL Server a puro reto, como las apps de idiomas. Escribes T-SQL de verdad en el navegador y te explica los errores en español con su número, el 207, el 547 y compañía.
+
 **Reportes PDF en ColdFusion 8**
 Sí, ColdFusion de 2008, sin acceso al Administrator. El `cfdocument` no justifica texto, así que terminé armando los PDF directo con iText desde Java para que salieran como deben.
 
@@ -45,7 +48,7 @@ Sí, ColdFusion de 2008, sin acceso al Administrator. El `cfdocument` no justifi
 | [MetodosNumericosPremiumApp](https://github.com/Said1Ojeda/MetodosNumericosPremiumApp) | App para el curso de Métodos Numéricos |
 | [TelcoIngeUmg](https://github.com/Said1Ojeda/TelcoIngeUmg) | Sistema en C#/.NET con arquitectura por capas (datos, lógica, presentación y seguridad) |
 | [SistemaRedVialGuatemala](https://github.com/Said1Ojeda/SistemaRedVialGuatemala) | Proyecto sobre la red vial de Guatemala |
-| [POrtafolioDigiSaid](https://github.com/Said1Ojeda/POrtafolioDigiSaid) | Mi portafolio digital |
+| [arbol](https://github.com/Said1Ojeda/arbol) | Árboles binarios y AVL paso a paso, con retos |
 
 Y cosas por gusto: juegos como la [Culebrita](https://github.com/Said1Ojeda/Juego.Culebrita) y [JuGeometry](https://github.com/Said1Ojeda/JuGeometry), y páginas para negocios de gente cercana.
 
@@ -71,9 +74,9 @@ Y cosas por gusto: juegos como la [Culebrita](https://github.com/Said1Ojeda/Jueg
 
 ### Ahora mismo
 
-- Sacando adelante el 6to semestre.
+- Sacando adelante el 7mo semestre.
 - Modernizando mi sistema de correspondencia y los reportes del trabajo.
-- Publicando aquí lo que voy aprendiendo, por si a alguien más le sirve.
+- Metiéndole más retos a SQL a la Bala.
 
 ---
 
@@ -88,9 +91,6 @@ Y cosas por gusto: juegos como la [Culebrita](https://github.com/Said1Ojeda/Jueg
 ### Hablemos
 
 <a href="https://www.linkedin.com/in/said-ojeda-fabian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://said1ojeda.github.io/POrtafolioDigiSaid/"><img src="https://img.shields.io/badge/Portafolio-0d2847?style=flat-square&logo=githubpages&logoColor=white" /></a>
 
 Si también te tocó pelear con código viejo o automatizar algo que nadie quería tocar, escríbeme. Seguro tenemos historias.
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Said1Ojeda&color=blue&style=flat-square&label=Visitas" />
-</div>
